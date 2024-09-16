@@ -1,6 +1,19 @@
-import React from "react";
+import { useState } from "react";
+// import React {useEffect,UseState} from "react";
 
 const LoginForm = () =>{
+  //  const [formDate, setFromDate]=useState({
+  //   email:'';
+  //   password:'';
+    
+  //  });
+  //  const[error,setEffect]=useState({});
+  //  const[showModel,setShowModel]=useState(false);
+
+  //  const validate =() =>{
+  //   const newError = {};
+  //   if (!form)
+  //  }
   return (
   <div className="form-container">
     <h1>Login</h1>
